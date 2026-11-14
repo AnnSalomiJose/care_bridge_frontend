@@ -296,7 +296,7 @@ import Login from '../src/pages/Login';
 import Register from '../src/pages/Register';
 
 import HealthChecker from '../src/pages/HealthChecker';
-import DoctorDetails from '../src/pages/Doctordetails';
+import DoctorDetails from '../src/pages/DoctorDetails';
 import Doctors from '../src/pages/Doctors';
 import AppointmentBooking from '../src/pages/AppointmentBooking';
 import Counseling from '../src/pages/Counseling';
